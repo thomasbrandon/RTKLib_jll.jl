@@ -1,0 +1,9 @@
+[[RTKLib]]
+arch = "x86_64"
+git-tree-sha1 = "af07dfdfcad152dfdfcf29ba15bac63c9a0f6196"
+libc = "glibc"
+os = "linux"
+
+    [[RTKLib.download]]
+    sha256 = "eea53ce32a565a3902fd885b8287f4a2ec297b9fc43f60a1e66ff3ccd286679a"
+    url = "https://github.com/thomasbrandon/RTKLib_jll.jl/releases/download/RTKLib-v2.4.3+0/RTKLib.v2.4.3.x86_64-linux-gnu.tar.gz"
